@@ -3,7 +3,6 @@ Believe in only hardwork and karma: **You are what you believe in. You become th
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vbanurag&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbanurag&layout=compact" /> 
 </p>
 
 
