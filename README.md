@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋
+Believe in only hardwork and karma: **You are what you believe in. You become that which you believe you can become**
 
-<!--
-**vbanurag/vbanurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vbanurag&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbanurag&layout=compact" /> 
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭  I’m Full Stack Developer having vast knowledge in JS framewroks, python, java.
+- 🌱  I’m currently learning Go And AI
+
+
+
+- 📫  How to reach me: [Twitter](https://twitter.com/vbanurag) | [linkedin](https://my.linkedin.com/in/vbanurag)
