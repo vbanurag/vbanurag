@@ -4,7 +4,8 @@ Believe in only hardwork and karma:
 **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |\
 मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||**
 
-**You are what you believe in. You become that which you believe you can become**
+**You are what you believe in. \
+You become that which you believe you can become**
 
 
 - 🔭  I’m Full Stack Developer having vast knowledge in JS framewroks, python, java.
